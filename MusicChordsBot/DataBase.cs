@@ -7,7 +7,7 @@ namespace AccordsBot
 {
     public class DataBase
     {
-
+        // soon will be implemented with EF
 
         public static void AddSongToLibrary(string fullName, string url)
         {
